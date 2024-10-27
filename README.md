@@ -17,7 +17,7 @@
   <a href="https://instagram.com/streehc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6285704107334"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://t.me/streehc"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/c/streehcc"><img src="https://img.shields.io/badge/YouTube-kukuh ramadhan yt-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/KukuhRamadhann" /><br>
+  <a href="https://youtube.com/c/streehcc"><img src="https://img.shields.io/badge/YouTube-Vint Offc yt-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/streehc" /><br>
   <a name=ramadhankukuh&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/VinthOffc07"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/c/streehc"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
@@ -39,12 +39,12 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/ramadhankukuh"><img src="https://github-readme-stats.vercel.app/api?username=ramadhankukuh&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ramadhankukuh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhankukuh&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/VinthOffc07"><img src="https://github-readme-stats.vercel.app/api?username=VinthOffc07&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/VinthOffc07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinthOffc07&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhankukuh&repo=ramadhankukuh.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhankukuh&repo=database&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=VinthOffc07&repo=VinthOffc07.github.io&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=VinthOffc07&repo=database&theme=nightowl)
 
 
 <p align="center">
